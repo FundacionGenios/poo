@@ -31,7 +31,7 @@
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Países</a>
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Profesores</a>
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Mascotas</a>
-        <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Celulares</a>
+        <a href="celulares.php" class="text-sm font-semibold leading-6 text-gray-900">Celulares</a>
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Motos</a>
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
