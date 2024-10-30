@@ -5,6 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="luisa.php">
 </head>
 
 <body>
@@ -30,7 +31,7 @@
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Productos</a>
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Países</a>
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Profesores</a>
-        <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Mascotas</a>
+        <a href="luisa.php" class="text-sm font-semibold leading-6 text-gray-900">Mascotas</a>
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Celulares</a>
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Motos</a>
       </div>
